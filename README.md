@@ -2,7 +2,7 @@
 
 # 🏫 College Timetable Generator for LJ University 🏫
 
-## 🌟 Developed by **webKing021** 🌟
+## 🌟Developed by **webKing021**🌟
 
 <img src="https://img.shields.io/badge/Timetable-Generator-blue?style=for-the-badge&logo=calendar" alt="Timetable Generator"/>
 <img src="https://img.shields.io/badge/Python-3.x-green?style=for-the-badge&logo=python" alt="Python"/>
