@@ -173,25 +173,6 @@ Unauthorized distribution, modification, or commercial use is strictly prohibite
 
 The College Timetable Generator represents thousands of hours of development, testing, and refinement based on feedback from educational administrators across multiple institutions. This application stands as a testament to Krutarth's commitment to excellence and deep understanding of both technical and administrative aspects of academic scheduling.
 
----
-
-<div align="center">
-
-## 💬 Testimonials 💬
-
-</div>
-
-> *"The College Timetable Generator has revolutionized our scheduling process. What used to take weeks now takes hours, with better results!"*
-> — Dr. Sharma, Dean of Academic Affairs
-
-> *"As a department head, I've tried many scheduling solutions. None compare to the intuitive design and powerful features of this application."*
-> — Prof. Patel, Computer Science Department
-
----
-
-<div align="center">
-
-*"Transforming educational scheduling from a headache into a breeze."*
 
 **Created with ❤️ by KRUTARTH RAYCHURA**
 </div>
