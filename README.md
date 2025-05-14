@@ -167,8 +167,6 @@ Unauthorized distribution, modification, or commercial use is strictly prohibite
 ## 👨‍💻 About the Visionary Developer 👨‍💻
 
 <img src="https://img.shields.io/badge/Developer-KRUTARTH%20RAYCHURA-red?style=for-the-badge" alt="Developer"/>
-
-<img src="logo.jpg" alt="KRUTARTH RAYCHURA" width="300" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
 </div>
 
 **KRUTARTH RAYCHURA** is a distinguished software architect and educational technology innovator with a passion for solving complex scheduling challenges. With extensive experience in algorithm design and educational administration systems, Krutarth has created a solution that addresses the real-world pain points faced by academic institutions worldwide.
