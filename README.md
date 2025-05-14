@@ -8,7 +8,6 @@
 <img src="https://img.shields.io/badge/Python-3.x-green?style=for-the-badge&logo=python" alt="Python"/>
 <img src="https://img.shields.io/badge/GUI-Tkinter-orange?style=for-the-badge&logo=python" alt="Tkinter"/>
 <img src="https://img.shields.io/badge/Version-2.0-purple?style=for-the-badge" alt="Version"/>
-<img src="https://img.shields.io/badge/Made%20With-❤️%20by%20KRUTARTH-red?style=for-the-badge" alt="Made with love"/>
 
 </div>
 
