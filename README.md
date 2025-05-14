@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🏫 College Timetable Generator 🏫
+# 🏫 College Timetable Generator for LJ University 🏫
 
-## 🌟 Developed with Excellence by **KRUTARTH RAYCHURA** 🌟
+## 🌟 Developed with Excellence by **webKing021** 🌟
 
 <img src="https://img.shields.io/badge/Timetable-Generator-blue?style=for-the-badge&logo=calendar" alt="Timetable Generator"/>
 <img src="https://img.shields.io/badge/Python-3.x-green?style=for-the-badge&logo=python" alt="Python"/>
@@ -29,7 +29,7 @@ Built with a deep understanding of the complexities faced by academic schedulers
 </div>
 
 ### 🚀 Intelligent Core Engine
-- **Advanced Timetable Algorithm**: Proprietary scheduling algorithm developed by **KRUTARTH RAYCHURA** that optimizes timetables based on multiple constraints simultaneously
+- **Advanced Timetable Algorithm**: Proprietary scheduling algorithm that optimizes timetables based on multiple constraints simultaneously
 - **Smart Conflict Resolution**: AI-inspired conflict detection and resolution system that automatically suggests optimal solutions
 - **Versatile Export System**: One-click export to Excel, PDF, and other formats with professionally designed templates
 - **Real-time Validation**: Continuous validation ensures timetable integrity at every step
@@ -80,7 +80,7 @@ Built with a deep understanding of the complexities faced by academic schedulers
 ### 📍 Installation
 
 ```bash
-# Clone or download the repository created by KRUTARTH RAYCHURA
+# Clone or download the repository.
 
 # Install all recommended dependencies for the full experience
 pip install pandas matplotlib numpy pillow reportlab
@@ -125,7 +125,7 @@ python krutarth.py --debug
 
 <div align="center">
 
-## 💡 Expert Tips from **KRUTARTH RAYCHURA** 💡
+## 💡 Tips 💡
 
 </div>
 
@@ -156,23 +156,14 @@ python krutarth.py --debug
 
 **ALL RIGHTS RESERVED**
 
-This software is the intellectual property of **KRUTARTH RAYCHURA**.
-Unauthorized distribution, modification, or commercial use is strictly prohibited.
+This software is developed by **webKing021**. you can use the code for your education or more enhancement for generating Time table. so feel free to use.
+
 </div>
 
 ---
 
 <div align="center">
 
-## 👨‍💻 About the Visionary Developer 👨‍💻
 
-<img src="https://img.shields.io/badge/Developer-KRUTARTH%20RAYCHURA-red?style=for-the-badge" alt="Developer"/>
-</div>
-
-**KRUTARTH RAYCHURA** is a distinguished software architect and educational technology innovator with a passion for solving complex scheduling challenges. With extensive experience in algorithm design and educational administration systems, Krutarth has created a solution that addresses the real-world pain points faced by academic institutions worldwide.
-
-The College Timetable Generator represents thousands of hours of development, testing, and refinement based on feedback from educational administrators across multiple institutions. This application stands as a testament to Krutarth's commitment to excellence and deep understanding of both technical and administrative aspects of academic scheduling.
-
-
-**Created with ❤️ by KRUTARTH RAYCHURA**
+**Created by webKing021 aka KRUTARTH RAYCHURA**
 </div>
