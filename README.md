@@ -17,7 +17,7 @@
 
 </div>
 
-The **College Timetable Generator** is a revolutionary software solution meticulously crafted by **KRUTARTH RAYCHURA** to transform the challenging task of academic scheduling into a seamless experience. This state-of-the-art application harnesses cutting-edge algorithms and intuitive design to create optimal, conflict-free timetables for educational institutions of all sizes.
+The **College Timetable Generator** is a revolutionary software solution meticulously to transform the challenging task of academic scheduling into a seamless experience. This state-of-the-art application harnesses cutting-edge algorithms and intuitive design to create optimal, conflict-free timetables for educational institutions of all sizes.
 
 Built with a deep understanding of the complexities faced by academic schedulers, this application represents the perfect fusion of technical excellence and practical utility. Every feature has been thoughtfully implemented to address real-world scheduling challenges that colleges and universities face daily.
 
