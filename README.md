@@ -161,8 +161,3 @@ This software is developed by **webKing021**. you can use the code for your educ
 
 ---
 
-<div align="center">
-
-
-**Created by webKing021 aka KRUTARTH RAYCHURA**
-</div>
